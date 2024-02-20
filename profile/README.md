@@ -2,11 +2,11 @@
 We should really put more information on this page.
 <br><br>
 ``
-     ,,    ,, <br>
-    / ,\__/, \ <br>
-   |  0\  /0  | <br>
-   \  (MMMM)  / <br>
-    ',______,' <br>
+     ,,    ,,       ;
+    / ,\__/, \      ;
+   |  0\  /0  |     ;
+   \  (MMMM)  /     ;
+    ',______,'      ;
 ``
 <br>
 <br>
