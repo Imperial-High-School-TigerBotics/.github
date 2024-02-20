@@ -7,10 +7,8 @@ We should really put more information on this page.
    |  0\  /0  |
    \  (MMMM)  /
     ',______,'
-```
-<br>
-<br>
+
    ^^^^^^^^^^^^
       (Tiger)
-
+```
 <!-- just put more stuff here -->
